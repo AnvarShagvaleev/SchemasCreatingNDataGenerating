@@ -7,3 +7,5 @@ scipy == 1.9.3
 selenium
 scikit-learn
 xlsxwriter
+pysqlite3
+sqlalchemy
